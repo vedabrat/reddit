@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'welcome/contact.html'
+  get 'welcome/contact'
 
   get 'welcome/index'
 
